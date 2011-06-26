@@ -1,13 +1,13 @@
 EAGLE AutoRouter Statistics:
 
-Job           : /home/aceat64/eagle/DMS Security System/human_interface_arduino.brd
+Job           : /home/aceat64/eagle/Arduino-Access-Control/human_interface_arduino.brd
 
-Start at      : 18:12:31 (6/25/11)
-End at        : 18:12:31 (6/25/11)
+Start at      : 17:48:05 (6/26/11)
+End at        : 17:48:05 (6/26/11)
 Elapsed time  : 00:00:00
 
-Signals       :    27   RoutingGrid: 50 mil  Layers: 2
-Connections   :    51   predefined:  0 ( 0 Vias )
+Signals       :    25   RoutingGrid: 50 mil  Layers: 2
+Connections   :    46   predefined:  0 ( 0 Vias )
 
 Router memory :   14472
 
@@ -18,8 +18,8 @@ Number of Ripups  :         0         0         0         0         0         0
 max. Level        :         0         0         0         0         0         0
 max. Total        :         0         0         0         0         0         0
 
-Routed            :         7        51        51        51        51        51
-Vias              :         0        47         6         4         3         3
-Resolution        :    13.7 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
+Routed            :         8        46        46        46        46        46
+Vias              :         0        35         7         2         2         3
+Resolution        :    17.4 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
 
 Final             : 100.0% finished
