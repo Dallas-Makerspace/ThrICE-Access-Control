@@ -2,9 +2,9 @@ EAGLE AutoRouter Statistics:
 
 Job           : /home/aceat64/eagle/MicroController-Access-System/human_interface_arduino.brd
 
-Start at      : 19:56:11 (7/2/11)
-End at        : 19:56:12 (7/2/11)
-Elapsed time  : 00:00:01
+Start at      : 12:36:59 (7/4/11)
+End at        : 12:36:59 (7/4/11)
+Elapsed time  : 00:00:00
 
 Signals       :    30   RoutingGrid: 50 mil  Layers: 2
 Connections   :    57   predefined:  57 ( 0 Vias )
@@ -13,7 +13,7 @@ Router memory :   20984
 
 Passname          :     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:00  00:00:00  00:00:00  00:00:00  00:00:01
+Time per pass     :  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00
 Number of Ripups  :         0         0         0         0         0
 max. Level        :         0         0         0         0         0
 max. Total        :         0         0         0         0         0
